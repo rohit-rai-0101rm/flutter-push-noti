@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295026797859",
+    "project_id": "fcm-demo-4e008",
+    "storage_bucket": "fcm-demo-4e008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295026797859:android:eb8b39902c6cb740c87096",
+        "android_client_info": {
+          "package_name": "com.android.fcm.noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcftAsOF1IaJMJXjF1WKCrXE82jaZprso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
